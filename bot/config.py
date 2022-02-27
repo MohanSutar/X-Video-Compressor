@@ -3,10 +3,11 @@ from bot.get_cfg import get_config
 
 class Config(object):
     # get a token from @BotFather
-    TG_BOT_TOKEN = get_config("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = get_config(5105850913:AAE-XzSr5c9La292vR2D2AHvFddBWL9B_UY
+)
     # The Telegram API things
-    APP_ID = int(get_config("APP_ID", 12345))
-    API_HASH = get_config("API_HASH")
+    APP_ID = int(get_config(X-Video-Compressor, 19019480))
+    API_HASH = get_config(5b630bdc7f0e542af76777534e7a4ff8)
      # Get these values from my.telegram.org
     # array to store the channel ID who are authorized to use the bot
     AUTH_USERS = set(
@@ -18,7 +19,7 @@ class Config(object):
     # the download location, where the HTTP Server runs
     DOWNLOAD_LOCATION = get_config("DOWNLOAD_LOCATION", "/app/downloads")
     # Telegram maximum file upload size
-    BOT_USERNAME = get_config("BOT_USERNAME")
+    BOT_USERNAME = get_config(msxvideocompressor_bot)
     MAX_FILE_SIZE = 2097152000
     TG_MAX_FILE_SIZE = 2097152000
     FREE_USER_MAX_FILE_SIZE = 2097152000
