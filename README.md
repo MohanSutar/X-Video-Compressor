@@ -2,7 +2,7 @@
 A Telegram Video Compressor Bot. **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
 ## Easy Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/MohanSutar/X-Video-Compressor)
 
 ### Projects Channel:
 <a href="https://t.me/Synuserbots"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
